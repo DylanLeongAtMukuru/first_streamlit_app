@@ -40,7 +40,7 @@ streamlit.write('The user entered ', fruit_choice)
 
 import requests
 fruity_vice = requests.get("https://fruityvice.com/api/fruit/"+ fruit_choice)
-#check
+#checks
 
 
 
